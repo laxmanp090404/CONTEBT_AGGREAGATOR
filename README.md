@@ -4,11 +4,11 @@ This project focuses on using web scraping  to extract data and providing data t
 It uses scripts  in python (LIKE NEWSPAPER 3K)to extract data,metadata and provide the SENTIMENT ANLAYSIS of a topic to the user.
 This ensures that the user gets apt data in minimal effort from reputed source.
 
-**PACKAGES USED:**
-    BEAUTIFULSOUP
-    REQUESTS
-    NLTK
-    newspaper3k
+**PACKAGES USED:**</br>
+    BEAUTIFULSOUP</br>
+    REQUESTS</br>
+    NLTK</br>
+    newspaper3k</br>
 
 **WORKING:**
     NEWSPAPER 3K SCRIPT IS USED TO STORE AND ACCESS  METADATA FROM NEWSARTICLES.
