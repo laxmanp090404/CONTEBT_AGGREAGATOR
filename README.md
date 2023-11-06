@@ -8,7 +8,8 @@ It uses scripts  in python (LIKE NEWSPAPER 3K)to extract data,metadata and provi
 This ensures that the user gets apt data in minimal effort from reputed source.</br>
      </br>
      </br>
-**PACKAGES USED:**</br>
+__PACKAGES USED:__
+</br>
 </br>
     1️⃣BEAUTIFULSOUP</br>
     2️⃣REQUESTS</br>
